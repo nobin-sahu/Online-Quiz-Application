@@ -57,7 +57,7 @@ function start(){
         previousbutton();
         nextbutton();
         display();
-        },10000);
+        },21000);
 }
 
 
